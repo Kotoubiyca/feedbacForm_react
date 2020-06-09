@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url(./fonts/HelveticaNeue-Regular-1200331f60db05b1234a0749cf564100.woff2) format('woff2'),
+  url(./fonts/HelveticaNeue-Regular-7d68fa4f50368f444c5d9e729f8608ef.woff) format('woff'),
+  url(./fonts/HelveticaNeue-Regular-ca4cc14c232382905e0cd561b9c0548d.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url(./fonts/HelveticaNeue-Medium-d4e49d5a84a72aeee0aed36f71fbd13e.woff2) format('woff2'),
+  url(./fonts/HelveticaNeue-Medium-94907f40002d1db11ea9c1ee85a512d2.woff) format('woff'),
+  url(./fonts/HelveticaNeue-Medium-b855484dd2d96a4c3451c2856138fefe.ttf) format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url(./fonts/HelveticaNeue-Bold-ab54e8f0db2ca0312fa5aade503b14bb.woff2) format('woff2'),
+  url(./fonts/HelveticaNeue-Bold-20147fd078dd33e9a81eabb9ef4cce8a.woff) format('woff'),
+  url(./fonts/HelveticaNeue-Bold-ce019f6ce3b9055ad98cc90225b47953.ttf) format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url(./fonts/HelveticaNeue-Italic-1b08df7a444318d60fb0a242790b341c.woff2) format('woff2'),
+  url(./fonts/HelveticaNeue-Italic-fff5356cf80a5fe84934cf179909f17a.woff) format('woff'),
+  url(./fonts/HelveticaNeue-Italic-1827d96482504028986069bc973def2a.ttf) format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Circe';
+  src: url(./fonts/Circe-Regular-60d20f049399d1e46a1339b15a8198aa.woff2) format('woff2'),
+  url(./fonts/Circe-Regular-1ac120476878d44dcfca4ac2c95341cf.woff) format('woff'),
+  url(./fonts/Circe-Regular-6b7a3a9323249eb6e98d7ea2f8d3cef3.ttf) format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Circe';
+  src: url(./fonts/Circe-Bold-d1db4470c6dd8e178558e034b6bd53f2.woff2) format('woff2'),
+  url(./fonts/Circe-Bold-f3cb4a9155dd235d0023cca41532f1bd.woff) format('woff'),
+  url(./fonts/Circe-Bold-f7ecc5c075545a6d6eba2dae8ca9605b.ttf) format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

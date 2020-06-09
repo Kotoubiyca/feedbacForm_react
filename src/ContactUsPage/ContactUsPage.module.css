@@ -1,0 +1,115 @@
+.page {
+  position: relative;
+  padding: 100px 0 200px;
+  background-color: #006ef1;
+  background-image: url("https://madappgang.com/static/getintouch_background-df5789fd2ef610c6ea5dc87aafbdca65.webp");
+  background-repeat: no-repeat;
+  background-position: right top -80px;
+}
+
+.pageHead {
+  width: 100%;
+  margin-bottom: 50px;
+  justify-content: flex-start;
+  color: #fff;
+}
+
+.pageTitle {
+  margin-right: 90px;
+}
+
+.pageBody {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.formWrapper {
+  position: relative;
+  width: 450px;
+}
+
+.whatNext {
+  width: 450px;
+  padding: 35px;
+  margin-right: 100px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.whatNextTitle {
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 1199px) {
+  .page {
+    padding: 40px 0 160px;
+    background-position: 100% 0;
+  }
+
+  .formWrapper {
+    width: 420px;
+  }
+
+  .whatNext {
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .whatNext {
+    width: 320px;
+    padding: 30px;
+  }
+
+  .formWrapper {
+    width: 320px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page {
+    padding-bottom: 0;
+    background-size: contain;
+  }
+
+  .container {
+    max-width: 100%;
+  }
+
+  .pageHead {
+    padding: 0 20px;
+    box-sizing: border-box;
+  }
+
+  .form {
+    padding: 0 20px;
+  }
+
+  .formWrapper {
+    width: 100%;
+    text-align: center;
+  }
+
+  .whatNext {
+    width: 100%;
+    padding: 24px 6.25%;
+    margin-top: 24px;
+    border-radius: 0;
+  }
+
+  .whatNextTitle {
+    margin-bottom: 8px;
+  }
+}
+
+
+
+
+
+
+.no-webp .contacts-page {
+  background-image: url('https://madappgang.com/static/getintouch_background-92134c00d1c4818c60fb3827a388fd53.png')
+}

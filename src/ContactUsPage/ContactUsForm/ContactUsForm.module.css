@@ -1,0 +1,35 @@
+.input {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 16px;
+  color: #fff;
+  background-color: #0056dd;
+  border: none;
+  border-radius: 8px;
+  font-weight: 500;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.input:focus {
+  background-color: hsla(0,0%,100%,.2);
+}
+
+.btn {
+  display: inline-block;
+  padding: 18px 80px 14px;
+  border-radius: 32px;
+  font-weight: 700;
+  color: #fff;
+  border: none;
+  text-transform: uppercase;
+  transition: box-shadow .1s ease-in-out;
+  cursor: pointer;
+  background-color: #142333;
+  font-family: circe, sans-serif;
+  height: 55px;
+}
+
+.btn:hover {
+  box-shadow: 0 10px 20px rgba(0,0,0,.15);
+}
